@@ -1,0 +1,2 @@
+{'percentDataUsed': 100, 'projectionLimit': 0, 'dataCheckSum': 1154730130, 'parentName': 'Radviz', 'attrSubsetSelection': 0, 'useExampleWeighting': True, 'timeLimit': 0, 'testingMethod': 1, 'projOptimizationMethod': 0, 'attrCont': 3, 'evaluationAlgorithm': 0, 'optimizationType': 1, 'attributeCount': 5, 'kValue': 5, 'totalProjectionsEvaluated': 8, 'attrDisc': 1, 'qualityMeasure': 3}
+[0, 1]
